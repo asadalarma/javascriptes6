@@ -1,2 +1,2 @@
-# javascriptes6
-Javascript ES6
+<b>JAVASCRIPT ES6</b>
+<p>Short Tutorial of ES6 Ecmascript</p>
